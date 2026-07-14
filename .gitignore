@@ -1,0 +1,4 @@
+.DS_Store
+backups/*.sql
+backups/*.tar.gz
+!backups/.gitkeep
